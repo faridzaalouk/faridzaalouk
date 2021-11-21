@@ -26,7 +26,7 @@ With the emergence of IoT and its use-cases I am now offering my services as a c
 - E2E project delivery (project management + design / implementation).
 - Advocate for technology prevalence and bring feed-back from the field.
 
-####  Chief Information Officer (CIO)
+###  Chief Information Officer (CIO)
 Banque Misr
 Jan 2016 – Mar 2018 (2 yrs 3 mos)
 - Leading the process of re-restructuring the core components of our data-centers 
@@ -35,7 +35,7 @@ Jan 2016 – Mar 2018 (2 yrs 3 mos)
 - Mapping out both the ICT strategy and ICT policy of the Bank Including future proofing, procurement and the external and internal standards laid within. 
 
 
-####  General Manager Consultant
+###  General Manager Consultant
 Banque Misr
 Nov 2004 – Jan 2016 (11 yrs 3 mos)
 Technology support management sector general manager.
@@ -51,12 +51,12 @@ Technology support management sector general manager.
 - Customer satisfaction — interact with internal and external clients to ensure continuous customer satisfaction 
 - Training — provide training for all IT users to ensure productive use of existing and new systems.
 
-####  Operation and Communication Deputy General Manager
+###  Operation and Communication Deputy General Manager
 Banque Misr
 Mar 2004 – Nov 2004 (9 mos)
 Same as above
 
-####  Communication Departement Manager
+###  Communication Departement Manager
 Banque Misr
 Apr 1999 – Mar 2004 (5 yrs)
 Communication network development — new and existing for enterprise initiatives and overall coordination for divisional initiatives 
@@ -65,7 +65,7 @@ Partnerships — establishing strategic relationships with key Communication equ
 Technology transfer — provide enabling technologies that make it easier for customers and suppliers to do business with our enterprise as well as increase revenue and profitability 
 Training — provide training for all IT staff to ensure productive use of existing and new systems. 
 
-####  Communication Department Manager
+###  Communication Department Manager
 Banque Misr
 Apr 1993 – Mar 1999 (6 yrs)
 
@@ -75,12 +75,12 @@ Partnerships — establishing strategic relationships with key Communication equ
 Technology transfer — provide enabling technologies that make it easier for customers and suppliers to do business with our enterprise as well as increase revenue and profitability 
 Training — provide training for all IT staff to ensure productive use of existing and new systems.
 
-#### Communication Department Supervisor
+### Communication Department Supervisor
 Banque Misr
 Apr 1989 – Mar 1993 (4 yrs)
 
 
-#### Communication Department Engineer
+### Communication Department Engineer
 Banque Misr
 Jan 1982 – Mar 1989 (7 yrs 3 mos)
 Training courses

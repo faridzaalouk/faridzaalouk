@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @faridzaalouk
 - 👀 I’m interested in IoT, FinTech, Cloud Computing
-- 🌱 40 years of experience but I am still learning.
+- 🌱 Ex. CIO with 40 years of experience but I am still learning (through teaching).
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/feed/) 
   - 💻 I’m looking to help you grow your business. 
   - 👓 Use my experience in your favor, ping me when you are ready!

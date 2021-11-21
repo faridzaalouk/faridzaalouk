@@ -7,7 +7,7 @@ Cairo, Egypt
 
 ## Summary
 
-- 34 years of total experience in the field of IT, over 25 years in leadership positions covering different verticals. 
+- 37 years of total experience in the field of IT, over 25 years in leadership positions covering different verticals. 
 - An ability to identify market problems and break them down into identifiable work items that contributes back to the success of the over all business. 
 - Strong technical background on the Cloud stack, as well as Edge computing and IoT. 
 - An Ability to communicate clearly and efficiently with different stakeholders across various market segments to accelerate business outcomes. 

@@ -1,6 +1,8 @@
+
+# Farid Zaalouk
+
+
 ## Contact details
-Farid Zaalouk
-Cairo, Egypt
 
 - **E-mmail**: farid.zaalouk@gmail.com
 - **LinkedIn** linkedin.com/in/farid-zaalouk-824372b8

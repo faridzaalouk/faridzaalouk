@@ -102,7 +102,13 @@ Training courses
 - Product Management: Building a Product Strategy - LinkedIn (Issued Oct 2020)
 
 ## Skills
-Banking  IT Service Management  Cloud Computing  TCP/IP  WAN  Service Providers  Security VoIP  Strategy  Business Strategy
+- Digital Transformation (Led the first digital transformation in Egypt for Banks) 
+- IT Service Management 
+- Cloud Computing  
+- Networking (TCP/IP), WAN, Service Providers,Security, VoIP
+- Product and Business Strategy 
+- IoT
+- FinTech
 
 ## Honors & awards
 

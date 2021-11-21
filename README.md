@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @faridzaalouk
+- 👋 Hi, I’m Farid Zaalouk
 - 👀 I’m interested in IoT, FinTech, Cloud Computing
 - 🌱 Ex. CIO with 40 years of experience but I am still learning (through teaching).
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/feed/) 

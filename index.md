@@ -1,5 +1,5 @@
 
-# Farid Zaalouk
+# Farid Zaalouk - Resume
 
 
 ## Contact details

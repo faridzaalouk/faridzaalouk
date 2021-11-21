@@ -20,6 +20,7 @@
 
 #### ICT Consultant and Advisor & IoT Consultant - Freelance
 Jul 2020 – Present (1 yr 5 mos)
+
 With the emergence of IoT and its use-cases I am now offering my services as a consultant. 
 
 - Provide design and guidelines for IoT blueprints.
@@ -27,8 +28,8 @@ With the emergence of IoT and its use-cases I am now offering my services as a c
 - Advocate for technology prevalence and bring feed-back from the field.
 
 ###  Chief Information Officer (CIO)
-Banque Misr
-Jan 2016 – Mar 2018 (2 yrs 3 mos)
+Banque Misr - Jan 2016 – Mar 2018 (2 yrs 3 mos)
+
 - Leading the process of re-restructuring the core components of our data-centers 
 - Making use of Software-Defined methodologies to optimize Opex and Capex
 - Leading the infrastructure and application work-groups
@@ -36,10 +37,9 @@ Jan 2016 – Mar 2018 (2 yrs 3 mos)
 
 
 ###  General Manager Consultant
-Banque Misr
-Nov 2004 – Jan 2016 (11 yrs 3 mos)
-Technology support management sector general manager.
+Banque Misr Nov 2004 – Jan 2016 (11 yrs 3 mos)
 
+Technology support management sector general manager.
 
 - Business technology planning process
 - Sponsor collaborative planning processes 
@@ -52,37 +52,37 @@ Technology support management sector general manager.
 - Training — provide training for all IT users to ensure productive use of existing and new systems.
 
 ###  Operation and Communication Deputy General Manager
-Banque Misr
-Mar 2004 – Nov 2004 (9 mos)
-Same as above
+Banque Misr Mar 2004 – Nov 2004 (9 mos)
+
+(Same as above)
 
 ###  Communication Departement Manager
-Banque Misr
-Apr 1999 – Mar 2004 (5 yrs)
-Communication network development — new and existing for enterprise initiatives and overall coordination for divisional initiatives 
-Communication infrastructure and architecture - running as well as ensuring ongoing investments are made 
-Partnerships — establishing strategic relationships with key Communication equipments suppliers and consultants 
-Technology transfer — provide enabling technologies that make it easier for customers and suppliers to do business with our enterprise as well as increase revenue and profitability 
-Training — provide training for all IT staff to ensure productive use of existing and new systems. 
+Banque Misr - Apr 1999 – Mar 2004 (5 yrs)
+
+- Communication network development — new and existing for enterprise initiatives and overall coordination for divisional initiatives 
+- Communication infrastructure and architecture - running as well as ensuring ongoing investments are made 
+- Partnerships — establishing strategic relationships with key Communication equipments suppliers and consultants 
+- Technology transfer — provide enabling technologies that make it easier for customers and suppliers to do business with our enterprise as well as increase revenue and profitability 
+- Training — provide training for all IT staff to ensure productive use of existing and new systems. 
 
 ###  Communication Department Manager
 Banque Misr
 Apr 1993 – Mar 1999 (6 yrs)
 
-Communication network development — new and existing for enterprise initiatives and overall coordination for divisional initiatives 
-Communication infrastructure and architecture - running as well as ensuring ongoing investments are made 
-Partnerships — establishing strategic relationships with key Communication equipments suppliers and consultants 
-Technology transfer — provide enabling technologies that make it easier for customers and suppliers to do business with our enterprise as well as increase revenue and profitability 
-Training — provide training for all IT staff to ensure productive use of existing and new systems.
+- Communication network development — new and existing for enterprise initiatives and overall coordination for divisional initiatives 
+- Communication infrastructure and architecture - running as well as ensuring ongoing investments are made 
+- Partnerships — establishing strategic relationships with key Communication equipments suppliers and consultants 
+- Technology transfer — provide enabling technologies that make it easier for customers and suppliers to do business with our enterprise as well as increase revenue and profitability 
+- Training — provide training for all IT staff to ensure productive use of existing and new systems.
 
 ### Communication Department Supervisor
-Banque Misr
-Apr 1989 – Mar 1993 (4 yrs)
+Banque Misr Apr 1989 – Mar 1993 (4 yrs)
 
 
 ### Communication Department Engineer
 Banque Misr
 Jan 1982 – Mar 1989 (7 yrs 3 mos)
+
 Training courses
 
 ## Education
